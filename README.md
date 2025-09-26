@@ -3,12 +3,12 @@
 
 ## Table of Contents   
 
-- [PROJECT TITLE].(#Project-Title)  
-- [DESCRIPTION].(#Description)     
-- [TOOLS USED].(#Tools-Used)   
-- [FILES USED].(#Files-Used).   
-- [HOW TO RUN PROGRAM].(#How-To-Run-Program).    
-- [ADDITIONAL INFORMATION].(Additional-Information).
+- [PROJECT TITLE](#Project-Title)  
+- [DESCRIPTION](#Description)     
+- [TOOLS USED](#Tools-Used)   
+- [FILES USED](#Files-Used)   
+- [HOW TO RUN PROGRAM](#How-To-Run-Program)    
+- [ADDITIONAL INFORMATION](Additional-Information)
 
 ## Project Title   
 
